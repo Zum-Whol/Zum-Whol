@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="https://github.com/Zum-Whol"><img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Sass&logoColor=CC6699"/>
+<a href="https://github.com/Zum-Whol"><img src="https://img.shields.io/badge/github-black?style=flat&logo=Sass&logoColor=CC6699"/>
 <!--
 **Zum-Whol/Zum-Whol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
