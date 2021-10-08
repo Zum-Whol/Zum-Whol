@@ -1,6 +1,6 @@
 ### Hi there 👋
 <a href="https://github.com/Zum-Whol"><img src="https://img.shields.io/badge/github-black?style=flat&logo=GitHub&logoColor=CC6699"/>
-<a href="https://github.com/Zum-Whol"><img src="https://img.shields.io/badge/react-black?style=flat&logo=React&logoColor=61DAFB"/>  
+<a href="https://github.com/Zum-Whol"><img src="https://img.shields.io/badge/react-yellow?style=flat&logo=React&logoColor=61DAFB"/>
 <!--
 **Zum-Whol/Zum-Whol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
