@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<a href="https://www.notion.so/MY-STAGE-ab592c23e27144a5903759195d7c1aa3" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 <!--
 **Zum-Whol/Zum-Whol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
